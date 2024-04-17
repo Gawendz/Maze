@@ -2,7 +2,7 @@
 This Android application is a maze game where the objective is to navigate a ball through a maze to reach the end point. The game features multiple levels with increasing difficulty.
 
 **Features**
-Maze Generation: The maze is randomly generated at the start of each level.
+Maze Generation: The maze is randomly generated at the start of each level./n
 Ball Movement: Use touch controls to move the ball through the maze.
 Level Progression: Progress through levels by reaching the end of the maze.
 Timer: A countdown timer adds an element of challenge to complete the maze within a time limit.
@@ -26,7 +26,7 @@ The application employs a countdown timer to add a time constraint to gameplay.
 Enhanced graphics and animations for a more engaging user experience.
 Additional game features such as power-ups, multiple ball types, or different maze themes.
 Optimization and refactoring for improved performance and code maintainability.
-Contributing
+
 
 https://github.com/Gawendz/Maze/assets/105167719/93468679-a08d-4300-8f08-4f2f0a7164aa
 
